@@ -1,3 +1,4 @@
+#AURAsync process
 # SDCX SDMulti Keyboard RGB Control
 
 Reverse-engineering notes and Python tools for controlling the RGB lighting on an **SDCX SDMulti** keyboard on Windows.
